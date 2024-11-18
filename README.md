@@ -1,6 +1,11 @@
-# 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+# EXP : 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+
+## NAME : MOHAMED HAMEEM SAJITH J
+## REG NO : 212223240090
+
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
+
 ## Algorithm
 
 1.Start the program.
@@ -17,9 +22,6 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 ```
-NAME : MOHAMED HAMEEM SAJITH J
-REG NO : 212223240090
-
 import socket
 
 def send_request(host, port, request):
